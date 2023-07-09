@@ -39,8 +39,8 @@ const Navbar = () => {
                 <button className="btn btn-outline btn-accent btn-sm lg:hidden">
                     <a
                         className="button"
-                        href="https://drive.google.com/file/d/11egexBDga1S09-CCk8jrqA1GRE9ThnWt/view?usp=sharing"
-                        download="Shamim-Ahmed-Asadullah-Full-Stack-developer.pdf"
+                        href="https://drive.google.com/file/d/1PTwCEWTtvGomGWxnwDIImGol6diD8b03/view?usp=sharing"
+                        download="Shamim-Ahmed-Asadullah-Mern-Stack-developer.pdf"
                     >
                         Resume
                     </a>
